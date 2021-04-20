@@ -4,6 +4,6 @@ This is a list of NPIs connected to contact email domains as submitted by provid
 
 This data comes from the NPPES database, but is NOT currently included in the public dissemination file provided by CMS. 
 
-203,939 rows of data are in this release. We will be making refresh FOIA requests in the future, and and we expect the number of records to increase substantially over time. As we receive more data, we will release it.
+203,939 rows of data are in this release. We expect to refresh FOIA requests in the future, and we expect the number of records to increase over time. 
 
 Download Link: http://bit.ly/CareSet_NPI_Domain_April2021
