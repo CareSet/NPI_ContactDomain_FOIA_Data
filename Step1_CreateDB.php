@@ -50,6 +50,7 @@ CREATE TABLE $target_db.$target_table (
 LOAD DATA LOCAL INFILE '$csv_file_location'
 INTO TABLE $target_db.$target_table
 FIELDS TERMINATED BY ',' 
+OPTIONALLY ENCLOSED BY '\"'
 LINES TERMINATED BY '\\n' 
 IGNORE 1 LINES
 ";
