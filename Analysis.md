@@ -11,7 +11,10 @@ Analysis of the NPPES FOIA Data
 php Step1_CreateDB.php
 ```
 This should return "done. Processing run took ? minutes."
-* 
+* At this point, you have a database that contains all of the components required to compare the endpoint and FOIA results.
+
+
+## Analysis 
 
 
 
