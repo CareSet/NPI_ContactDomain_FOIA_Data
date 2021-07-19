@@ -28,7 +28,7 @@
 
 
 	$sql = [];
-/*
+
 	$sql['create the database if it does not yet exist']= "
 CREATE DATABASE IF NOT EXISTS $target_db
 ";
@@ -108,7 +108,7 @@ ESCAPED BY '\"'
 LINES TERMINATED BY '\\n' 
 IGNORE 1 LINES
 ";
-*/
+
 
 	//load the nppes summary data.. this has the lookup for all of the NPIs in either the endpoint file
 	//or the FOIA data...
@@ -160,7 +160,7 @@ LINES TERMINATED BY '\\n'
 IGNORE 1 LINES
 ";
 
-/*
+
 	//load the domainlist... this has manually configured status of whether a domain is a personal email domain
 	//the public version of the dataset has already been filtered by this file...
 
@@ -195,7 +195,7 @@ use $target_db
 	}
 
 
-*/
+
 
 
 	//load the data from the file... 
